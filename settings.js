@@ -55,7 +55,7 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "S.L.B.T NEWS MUSIC BOT" //ur sticker watermark packname
 global.author = "S.L.B.T NEWS MUSIC BOT" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "S.L.B.T NEWS MUSIC BOT"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94755744843'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
